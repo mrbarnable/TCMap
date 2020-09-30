@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mrbarnable/TCMap/issues"
   },
-  "homepage": "https://github.com/mrbarnable/TCMap#readme"
+  "homepage": "https://github.com/mrbarnable/TCMap#readme",
+  "dependencies": {
+    "nan": "^2.14.1"
+  }
 }
